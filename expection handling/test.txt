@@ -1,0 +1,7 @@
+1.'django.middleware.security.SecurityMiddleware',
+2.'django.contrib.sessions.middleware.SessionMiddleware',
+3.'django.middleware.common.CommonMiddleware',
+4.'django.middleware.csrf.CsrfViewMiddleware',
+5.'django.contrib.auth.middleware.AuthenticationMiddleware',
+6.'django.contrib.messages.middleware.MessageMiddleware',
+7.'django.middleware.clickjacking.XFrameOptionsMiddleware',
